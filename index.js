@@ -48,7 +48,7 @@ module.exports = {
     },
     'import/resolver': {
       node: true,
-      'eslint-import-resolver-typescript': true,
+      "typescript": {}
     },
   },
   globals: {
