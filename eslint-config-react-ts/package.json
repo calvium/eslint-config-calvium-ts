@@ -1,0 +1,24 @@
+{
+  "name": "@calvium/eslint-config-react-ts",
+  "version": "1.0.0",
+  "description": "TypeScript Eslint setup for create-react-app apps",
+  "main": "index.js",
+  "files": ["index.js"],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:calvium/eslint-config-calvium-ts.git"
+  },
+  "homepage": "https://github.com/calvium/eslint-config-calvium-ts#readme",
+  "peerDependencies": {
+    "eslint": ">=5",
+    "typescript": ">=3",
+    "react-scripts": ">=2"
+  },
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^1.4.2",
+    "@typescript-eslint/parser": "^1.4.2",
+    "eslint-import-resolver-typescript": "^1.1.1",
+    "eslint-plugin-import": "2.16.0",
+    "eslint-plugin-react": "7.12.4"
+  }
+}
