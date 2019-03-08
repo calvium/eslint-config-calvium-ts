@@ -1,2 +1,6 @@
-# eslint-config-calvium-ts
-eslint configurations for React &amp; React Native
+Installation
+============
+
+```
+npm i @calvium/eslint-config-react-ts --save-dev 
+``` 

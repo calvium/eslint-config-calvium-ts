@@ -1,9 +1,11 @@
 {
-  "name": "@calvium/eslint-config-react-ts",
+  "name": "@calvium/eslint-config-calvium-ts",
   "version": "1.0.0",
   "description": "TypeScript Eslint setup for create-react-app apps",
   "main": "index.js",
-  "files": ["index.js"],
+  "files": [
+    "index.js"
+  ],
   "repository": {
     "type": "git",
     "url": "git@github.com:calvium/eslint-config-calvium-ts.git"
